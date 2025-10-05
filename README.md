@@ -1,15 +1,15 @@
 # Hi, I'm Sharif Iddrisu
 **Software Engineer || Penetration Tester || Passionate About Artificial Intelligence**
 
-Email Me 👉 ✉️ **sharifiddrisu156@gmail.com** For Collaboration/Project or Anything Else. 😊
+Email Me  **sharifiddrisu156@gmail.com** For Collaboration/Project or Anything Else. 
 
-- 🔭 **I’m currently working on:** Student
-- 🌱 **I’m currently learning:** a lot........
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 💬 **Ask me about:** Collaboration, Tech Support, Debian
-- 📫 **How to reach me:** sharifiddrisu156@gmail.com
-- 😄 **Pronouns:** MrGem, Noble
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+-  **I’m currently working on:** Student
+-  **I’m currently learning:** a lot........
+-  **I’m looking to collaborate on:** Enter your project name and info
+-  **Ask me about:** Collaboration, Tech Support, Debian
+-  **How to reach me:** sharifiddrisu156@gmail.com
+-  **Pronouns:** MrGem, Noble
+-  **Fun fact:** I Love Tech and Tech Love Me
 
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=noblex1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
