@@ -10,9 +10,7 @@ Email Me  **sharifiddrisu156@gmail.com** For Collaboration/Project or Anything E
 -  **How to reach me:** sharifiddrisu156@gmail.com
 -  **Pronouns:** MrGem, Noble
 -  **Fun fact:** I Love Tech and Tech Love Me
-
-  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=noblex1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
 
 ## 🔗 I am a Content Creator as well. 😊�
